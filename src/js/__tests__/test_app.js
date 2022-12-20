@@ -46,7 +46,7 @@ test('healthyStatusByToBe', () => {
 
   const expct = [
     { name: 'маг', health: 100 },
-    { name: 'лучник', health: 50 },
+    { name: 'лучник', health: 80 },
     { name: 'лучник', health: 80 },
     { name: 'мечник', health: 10 },
   ];
